@@ -19,10 +19,19 @@
 # result = (a + a % 2 + b + b % 2 + c + c % 2) // 2
 # print(result)
 
-year = int(input('Введите пожалуйста год:'))
+# y
 
-if ((year % 4 == 0) and (year % 100 != 0)) or (year % 400 == 0):
-    print('yes')
-else:
-    print('no')    
+
+# факториал
+# n = int(input())
+# result = n
+
+# while n > 1:
     
+#     result = result * (n-1)
+#     n -= 1
+
+# print(result)
+
+
+
